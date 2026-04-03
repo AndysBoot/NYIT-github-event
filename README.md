@@ -1,4 +1,6 @@
 # NYIT-github-event-ACM
+(((REWRITE))) "Self reminder to rewrite this readme template and make it more personalized for the ACM Event"
+
 🚀 Welcome to Your GitHub Learning Hub
 
 Welcome! This repository is designed as a hands-on introduction to GitHub for beginners. Whether you're brand new to coding or just starting to explore version control, this repo will guide you step-by-step through the essentials.
