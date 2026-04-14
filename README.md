@@ -4,6 +4,8 @@
 
 The goal of this workshop is to get you comfortable with the ins and outs of using GitHub.
 
+Use the sample projects in the projects folder to modify and create changes to the original code.
+
 Whether you're using GitHub for the very first time or already have experience, this workshop is designed to give you practical, hands-on experience. Follow along with our presentation, and please raise your hand at any time if you have questions!
 
 
